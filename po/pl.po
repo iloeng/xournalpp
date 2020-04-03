@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-01 14:06\n"
+"PO-Revision-Date: 2020-04-03 17:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -428,7 +428,7 @@ msgstr "Rysuj prostokąt"
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:410
 msgid "Draw Spline"
-msgstr ""
+msgstr "Rysuj Spline"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:103
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:32
@@ -503,7 +503,7 @@ msgstr "Błąd podczas auto-zapisu: {1}"
 
 #: ../src/util/Util.cpp:167
 msgid "Error {1} executing system command: {2}"
-msgstr ""
+msgstr "Błąd {1} w trakcie wykonywania polecenia systemowego: {2}"
 
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
@@ -1217,7 +1217,7 @@ msgstr "Próba awaryjnego zapisu aktualnie otwartego dokumentu…"
 
 #: ../src/gui/PageView.cpp:355
 msgid "Unable to play audio recording {1}"
-msgstr ""
+msgstr "Nie można odtworzyć nagrania audio: {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:325
 #: ../src/undo/UndoRedoHandler.cpp:203
@@ -1461,7 +1461,7 @@ msgstr "kreska"
 
 #: ../src/util/DeviceListHelper.cpp:108
 msgid "tablet pad"
-msgstr ""
+msgstr "tablet"
 
 #: ../src/undo/AddUndoAction.cpp:103 ../src/undo/DeleteUndoAction.cpp:100
 msgid "text"
