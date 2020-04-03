@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-03 02:58\n"
+"PO-Revision-Date: 2020-04-03 03:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -2282,7 +2282,7 @@ msgstr "Gravar / Parar"
 
 #: ../ui/settings.glade:3923
 msgid "Recording Quality"
-msgstr ""
+msgstr "Qualidade da gravação"
 
 #: ../ui/exportSettings.glade:112
 msgid "Resolution"
@@ -2290,7 +2290,7 @@ msgstr "Resolução"
 
 #: ../ui/settings.glade:999
 msgid "Right Mouse Button"
-msgstr ""
+msgstr "Botão Direito do Mouse"
 
 #: ../ui/settings.glade:3091
 msgid "Rotation snapping tolerance"
@@ -2298,11 +2298,11 @@ msgstr ""
 
 #: ../ui/settings.glade:3862
 msgid "Sample Rate"
-msgstr ""
+msgstr "Taxa de Amostragem"
 
 #: ../ui/settings.glade:2328
 msgid "Scrollbars"
-msgstr ""
+msgstr "Barras de rolagem"
 
 #: ../ui/settings.glade:2993
 msgid "Scrolling outside the page"
@@ -2414,11 +2414,11 @@ msgstr ""
 
 #: ../ui/settings.glade:1660 ../ui/settings.glade:1673
 msgid "Test"
-msgstr ""
+msgstr "Teste"
 
 #: ../ui/main.glade:1820
 msgid "Text Font..."
-msgstr ""
+msgstr "Fonte do Texto..."
 
 #: ../ui/settings.glade:2763
 msgid "The unit of the ruler is cm"
@@ -2439,7 +2439,7 @@ msgstr ""
 #: ../ui/settings.glade:1420 ../ui/settings.glade:1889
 #: ../ui/settingsDeviceClassConfig.glade:46
 msgid "Touchscreen"
-msgstr ""
+msgstr "Touchscreen"
 
 #: ../ui/fillTransparency.glade:14
 msgid "Transparency settings"
@@ -2459,15 +2459,15 @@ msgstr ""
 
 #: ../ui/about.glade:101
 msgid "Version"
-msgstr ""
+msgstr "Versão"
 
 #: ../ui/pluginEntry.glade:94
 msgid "Version: "
-msgstr ""
+msgstr "Versão: "
 
 #: ../ui/settings.glade:2527
 msgid "View"
-msgstr ""
+msgstr "Visualizar"
 
 #: ../ui/settingsButtonConfig.glade:131
 msgid "Whiteout"
@@ -2475,7 +2475,7 @@ msgstr ""
 
 #: ../ui/pagesize.glade:189
 msgid "Width:"
-msgstr ""
+msgstr "Largura:"
 
 #: ../ui/about.glade:232
 msgid "With help from the community"
@@ -2491,7 +2491,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2817
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
 
 #: ../ui/settings.glade:1789
 msgid "Zoom Gestures"
@@ -2767,12 +2767,12 @@ msgstr ""
 
 #: ../ui/settings.glade:293
 msgid "minutes"
-msgstr ""
+msgstr "minutos"
 
 #: ../ui/settings.glade:2960 ../ui/settings.glade:2971
 #: ../ui/settings.glade:3219
 msgid "pixels"
-msgstr ""
+msgstr "pixels"
 
 #: ../ui/settings.glade:1551
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
@@ -2780,7 +2780,7 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:37
 msgid "save to file"
-msgstr ""
+msgstr "Salvar para o arquivo"
 
 #: ../ui/main.glade:1524 ../ui/main.glade:1670 ../ui/main.glade:1779
 msgid "ver_y thick"
