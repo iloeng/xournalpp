@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-03 17:06\n"
+"PO-Revision-Date: 2020-04-03 18:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1555,7 +1555,29 @@ msgid "%a\t\tAbbreviated weekday name (e.g. Thu)\n"
 "%Y\t\tYear (e.g. 2001)\n"
 "%Z\t\tTimezone name or abbreviation (e.g. CDT)\n"
 "%%\tA % sign"
-msgstr ""
+msgstr "%a\t\tSkrócona nazwa dnia tygodnia (np. Wt.)\n"
+"%A\t\tPełna nazwa dnia tygodnia (np. Czwartek)\n"
+"%b\t\tSkrócona nazwa miesiąca (np. Sierp.)\n"
+"%B\t\tPełna nazwa miesiąca (np. Sierpień)\n"
+"%c\t\tReprezentacja daty i czasu (np. wt. Sierp. 23 14:55:02 2001)\n"
+"%d\t\tDzień miesiąca (01-31)\n"
+"%F\t\tData (np. 2001-08-23)\n"
+"%H\t\tGodzina w formacie 24h (00-23)\n"
+"%I\t\tGodzina w formacie 12h (01-12)\n"
+"%j\t\tDzień roku (001-366)\n"
+"%m\tMiesiąc jako liczba dziesiętna (01-12)\n"
+"%M\tMinuta (00-59)\n"
+"%p\t\tAM lub oznaczenie PM (np. PM)\n"
+"%S\t\tSekundy (00-61)\n"
+"%U\t\tNumer tygodnia w pierwszą niedzielę jako pierwszy dzień tygodnia pierwszego (00-53)\n"
+"%w\t\tDni tygodnia jako liczba dziesiętna z niedzielą jako 0 (0-6)\n"
+"%W\tTydzień jako liczba dziesiętna z pierwszym poniedziałkiem jako pierwszy dzień tygodnia pierwszego (00-53)\n"
+"%x\t\tSkrócona data (np. 08/23/01)\n"
+"%X\t\tGodzina (np. 14:55:02)\n"
+"%y\t\tDwie ostatnie cyfry roku (00-99)\n"
+"%Y\t\tRok (np. 2001)\n"
+"%Z\t\tNazwa lub skrót strefy czasowej (np. CDT)\n"
+"%%\tZnak %"
 
 #: ../ui/settings.glade:3360
 msgid "... AND How much time must have passed since last stroke.\n\n"
@@ -1593,7 +1615,9 @@ msgstr "<b>Skonfiguruj szablon strony Xournal++</b>\n"
 msgid "<b>Copy last page</b>\n"
 "Use the settings above\n"
 "for the fist Page"
-msgstr ""
+msgstr "<b>Skopiuj ostatnią stronę</b>\n"
+"Użyj powyższego ustawienia\n"
+"na pierwszej stronie"
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
@@ -1612,7 +1636,8 @@ msgstr "<b>Ustawienia eksportu dokumentu</b>\n"
 #: ../ui/main.glade:110
 msgid "<b>Empty Toolbox</b>\n"
 "<i>Menu: View/Toolbars</i>"
-msgstr ""
+msgstr "<b>Pusta skrzynia narzędzi</b>\n"
+"<i>Menu: Widok/Pasek narzędzi</i>"
 
 #: ../ui/fillTransparency.glade:79
 msgid "<b>Fill transparency settings</b>\n"
@@ -1634,11 +1659,11 @@ msgstr "<b>Separator</b>"
 
 #: ../ui/settings.glade:708
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
-msgstr ""
+msgstr "<i>Przypisz klasy urządzeń do każdego urządzenia wejściowego w systemie. Zmień te ustawienie tylko wtedy, gdy twoje urządzenia nie są poprawnie dopasowane. (np. twój długopis pokazuje się jako ekran dotykowy)</i>"
 
 #: ../ui/settings.glade:3659
 msgid "<i>Audio recordings are currently stored in a separate folder and referenced from the journal.</i>"
-msgstr ""
+msgstr "<i>Nagrania audio są obecnie przechowywane w oddzielnym folderze i wywoływane z dziennika.</i>"
 
 #: ../ui/settings.glade:4002
 msgid "<i>Changes take only effect on new recordings and playbacks.</i>"
@@ -1666,7 +1691,7 @@ msgstr "<i>Jeśli dokument został już zapisany, możesz znaleźć go w tym sam
 
 #: ../ui/settings.glade:2868
 msgid "<i>If you add additional space beside the pages you can choose the area of the screen you would like to work on.</i>"
-msgstr ""
+msgstr "<i>Jeśli dodasz miejsce obok stron, możesz wybrać obszar ekranu na którym chcesz pracować.</i>"
 
 #: ../ui/settings.glade:529
 msgid "<i>If you open a PDF and there is a Xournal file with the same name it will open the xoj file.</i>"
