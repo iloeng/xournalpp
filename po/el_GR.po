@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-04 23:08\n"
+"PO-Revision-Date: 2020-04-04 23:15\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -895,16 +895,16 @@ msgstr ""
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:16
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:109
 msgid "Red"
-msgstr ""
+msgstr "Κόκκινο"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:326
 #: ../src/undo/UndoRedoHandler.cpp:215
 msgid "Redo"
-msgstr ""
+msgstr "Ακύρωση Αναίρεσης"
 
 #: ../src/undo/UndoRedoHandler.cpp:210
 msgid "Redo: "
-msgstr ""
+msgstr "Ακύρωση Αναίρεσης: "
 
 #: ../src/control/Control.cpp:1997
 msgid "Remove PDF Background"
@@ -1060,7 +1060,8 @@ msgstr ""
 #: ../src/control/XournalMain.cpp:338
 msgid "Sorry, Xournal++ can only open one file at once.\n"
 "Others are ignored."
-msgstr ""
+msgstr "Συγγνώμη το Xournal++ μπορεί να ανοίξει μόνο ένα αρχείο την φορά.\n"
+"Τα υπόλοιπα θα αγνοηθούν."
 
 #: ../src/control/XournalMain.cpp:350
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
@@ -1125,7 +1126,7 @@ msgstr ""
 
 #: ../src/control/Control.cpp:1058
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
-msgstr ""
+msgstr "Η διαμόρφωση τη γραμμής εργαλείων \"{1}\" είναι προκαθορισμένη, θα θέλατε να δημιουργήσετε αντίγραφο για να την επεξεργαστείτε;"
 
 #: ../src/control/Control.cpp:1993
 msgid "The attached background PDF could not be found."
