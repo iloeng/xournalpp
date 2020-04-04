@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-04 16:14\n"
+"PO-Revision-Date: 2020-04-04 16:31\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -487,77 +487,79 @@ msgstr "Σφάλμα ανάγνωσης PDF: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:506
 msgid "Error reading width of a stroke: {1}"
-msgstr ""
+msgstr "Σφάλμα ανάγνωσης πλάτους μιας πινελιάς: {1}"
 
 #: ../src/control/jobs/ImageExport.cpp:104
 msgid "Error save image #1"
-msgstr ""
+msgstr "Σφάλμα αποθήκευσης εικόνας #1"
 
 #: ../src/control/jobs/ImageExport.cpp:119
 msgid "Error save image #2"
-msgstr ""
+msgstr "Σφάλμα αποθήκευσης εικόνας #2"
 
 #: ../src/control/jobs/AutosaveJob.cpp:15
 msgid "Error while autosaving: {1}"
-msgstr ""
+msgstr "Σφάλμα κατά την αυτόματη αποθήκευση: {1}"
 
 #: ../src/util/Util.cpp:167
 msgid "Error {1} executing system command: {2}"
-msgstr ""
+msgstr "Σφάλμα {1} κατά την εκτέλεση εντολής συστήματος: {2}"
 
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
-msgstr ""
+msgstr "Σφάλμα: {1}"
 
 #: ../src/control/XournalMain.cpp:137
 msgid "Errorlog cannot be deleted. You have to do it manually.\n"
 "Logfile: {1}"
-msgstr ""
+msgstr "Αδυναμία διαγραφής errorlog. Πρέπει να γίνει χειροκίνητα.\n"
+"Logfile: {1}"
 
 #: ../src/control/jobs/BaseExportJob.cpp:16
 msgid "Export PDF"
-msgstr ""
+msgstr "Εξαγωγή σε PDF"
 
 #: ../src/util/Util.cpp:123 ../src/util/Util.cpp:140
 msgid "File couldn't be opened. You have to do it manually:\n"
 "URL: {1}"
-msgstr ""
+msgstr "Δεν ήταν δυνατό το άνοιγμα του αρχείου Πρέπει να γίνει χειροκίνητα.\n"
+"URL: {1}"
 
 #: ../src/control/Control.cpp:1964
 msgid "Filename: {1}"
-msgstr ""
+msgstr "Όνομα αρχείου: {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:458
 msgid "Fill"
-msgstr ""
+msgstr "Γέμισμα"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:472
 msgid "Fine"
-msgstr ""
+msgstr "Λεπτό"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:66
 msgid "Floating Toolbox (experimental)"
-msgstr ""
+msgstr "Αιωρούμενο κουτί εργαλείων (πειραματικό)"
 
 #: ../src/gui/toolbarMenubar/FontButton.cpp:54
 msgid "Font"
-msgstr ""
+msgstr "Γραμματοσειρά"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:433
 msgid "Forward"
-msgstr ""
+msgstr "Επόμενη σελίδα"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:364
 msgid "Go to first page"
-msgstr ""
+msgstr "Μετάβαση στην πρώτη σελίδα"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:368
 msgid "Go to last page"
-msgstr ""
+msgstr "Μετάβαση στην τελευταία σελίδα"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:371
 msgid "Go to next layer"
-msgstr ""
+msgstr "Μετάβαση στην επόμενη στρώση"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:366
 msgid "Go to page"
@@ -565,11 +567,11 @@ msgstr "Μετάβαση στη σελίδα"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:370
 msgid "Go to previous layer"
-msgstr ""
+msgstr "Πηγαίνετε στην προηγούμενη στρώση"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:372
 msgid "Go to top layer"
-msgstr ""
+msgstr "Μετάβαση στην πρώτη στρώση"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:23
 msgid "Graph"
@@ -587,7 +589,7 @@ msgstr "Πράσινο"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:342
 msgid "Grid Snapping"
-msgstr ""
+msgstr "Προσκόλληση στον καμβά"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:65
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:419
@@ -601,7 +603,7 @@ msgstr "Aπόκρυψη όλων"
 #: ../src/gui/dialog/ButtonConfigGui.cpp:59
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:396
 msgid "Highlighter"
-msgstr ""
+msgstr "Υπογραμμισμός"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:30
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:400
@@ -610,7 +612,7 @@ msgstr "Εικόνα"
 
 #: ../src/control/XournalMain.cpp:224
 msgid "Image file successfully created"
-msgstr ""
+msgstr "Το αρχείο εικόνας δημιουργήθηκε επιτυχώς"
 
 #: ../src/control/XournalMain.cpp:271
 msgid "Image output filename (.png / .svg)"
@@ -922,19 +924,19 @@ msgstr ""
 
 #: ../src/control/XournalMain.cpp:162
 msgid "Restore file"
-msgstr ""
+msgstr "Επαναφορά αρχείου"
 
 #: ../src/undo/RotateUndoAction.cpp:53
 msgid "Rotation"
-msgstr ""
+msgstr "Περιστροφή"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:340
 msgid "Rotation Snapping"
-msgstr ""
+msgstr "Περιστροφή με σκάλες"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:20
 msgid "Ruled"
-msgstr ""
+msgstr "Με γραμμές"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:21
 msgid "Ruled with vertical line"
