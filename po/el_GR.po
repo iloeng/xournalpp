@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-02 10:25\n"
+"PO-Revision-Date: 2020-04-04 16:08\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -217,15 +217,15 @@ msgstr "Δεν βρέθηκε το πακέτο LaTeX 'standalone'.\n"
 
 #: ../src/control/LatexController.cpp:386
 msgid "Could not load LaTeX PDF file"
-msgstr ""
+msgstr "Δεν ήταν δυνατό να φορτωθεί το αρχείο LaTeX PDF"
 
 #: ../src/control/LatexController.cpp:371
 msgid "Could not load LaTeX PDF file, File Error: {1}"
-msgstr ""
+msgstr "Δεν ήταν δυνατό να φορτωθεί το αρχείο LaTeX PDF, Σφάλμα Αρχείου: {1}"
 
 #: ../src/control/LatexController.cpp:378
 msgid "Could not load LaTeX PDF file: {1}"
-msgstr ""
+msgstr "Δεν ήταν δυνατό να φορτωθεί το αρχείο LaTeX PDF: {1}"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:15
 msgid "Could not load pagetemplates.ini file"
@@ -243,14 +243,14 @@ msgstr "Απέτυχε το άνοιγμα του συνημμένου: {1}. Μ�
 #: ../src/control/xojfile/LoadHandler.cpp:1004
 #: ../src/control/xojfile/LoadHandler.cpp:1023
 msgid "Could not open attachment: {1}. Error message: No valid file size provided"
-msgstr ""
+msgstr "Απέτυχε το άνοιγμα του συνημμένου: {1}. Μήνυμα σφάλματος: Δεν δόθηκε αποδεκτό μέγεθος αρχείου"
 
 #: ../src/control/xojfile/LoadHandler.cpp:745
 #: ../src/control/xojfile/LoadHandler.cpp:761
 #: ../src/control/xojfile/LoadHandler.cpp:996
 #: ../src/control/xojfile/LoadHandler.cpp:1011
 msgid "Could not open attachment: {1}. Error message: {2}"
-msgstr ""
+msgstr "Απέτυχε το άνοιγμα του συνημμένου: {1}. Μήνυμα σφάλματος: {2}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:154
 msgid "Could not open file: \"{1}\""
@@ -259,55 +259,59 @@ msgstr "Δεν ήταν δυνατό το άνοιγμα αρχείου: \"{1}\"
 #: ../src/gui/MainWindow.cpp:86
 msgid "Could not parse custom toolbar.ini file: {1}\n"
 "Toolbars will not be available"
-msgstr ""
+msgstr "Αδύνατη προσπέλαση προσαρμοσμένου αρχείου toolbar.ini: {1}\n"
+"Οι γραμμές εργαλείων δεν θα είναι διαθέσιμες"
 
 #: ../src/gui/MainWindow.cpp:77
 msgid "Could not parse general toolbar.ini file: {1}\n"
 "No Toolbars will be available"
-msgstr ""
+msgstr "Αδύνατη προσπέλαση γενικού αρχείου toolbar.ini: {1}\n"
+"Οι γραμμές εργαλείων δεν θα είναι διαθέσιμες"
 
 #: ../src/control/xojfile/LoadHandler.cpp:340
 #: ../src/control/xojfile/LoadHandler.cpp:364
 msgid "Could not read image: {1}. Error message: {2}"
-msgstr ""
+msgstr "Απέτυχε η ανάγνωση της εικόνας: {1}. Μήνυμα σφάλματος: {2}"
 
 #: ../src/undo/UndoRedoHandler.cpp:137
 msgid "Could not redo \"{1}\"\n"
 "Something went wrong… Please write a bug report…"
-msgstr ""
+msgstr "Δεν μπόρεσε να ξαναγίνει το ''{1}\"\n"
+"Κάτι πήγε στραβά... Παρακαλείστε να κάνετε μια αναφορά σφάλματος…"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:169
 msgid "Could not remove tool item from Toolbar {1} on position {2}"
-msgstr ""
+msgstr "Δεν ήταν δυνατό να αφαιρεθεί το εργαλείο από την γραμμή εργαλείων {1} στην θέση {2}"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:164
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
-msgstr ""
+msgstr "Δεν ήταν δυνατό να αφαιρεθεί το εργαλείο {1} από την γραμμή εργαλείων {2} στην θέση {3}"
 
 #: ../src/control/Control.cpp:231
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
-msgstr ""
+msgstr "Δεν ήταν δυνατό να μετονομαστεί το αρχείο από \"{1}\" σε \"{2}\": {3}"
 
 #: ../src/control/LatexController.cpp:109
 msgid "Could not save .tex file: {1}"
-msgstr ""
+msgstr "Αδυναμία αποθήκευσης .tex αρχείου: {1}"
 
 #: ../src/control/LatexController.cpp:128
 msgid "Could not start pdflatex: {1} (exit code: {2})"
-msgstr ""
+msgstr "Αδυναμία εκκίνησης pdflatex: {1} (κωδικός εξόδου; {2})"
 
 #: ../src/undo/UndoRedoHandler.cpp:108
 msgid "Could not undo \"{1}\"\n"
 "Something went wrong… Please write a bug report…"
-msgstr ""
+msgstr "Δεν ήταν δυνατή η αντιστροφή του \"{1}\"\n"
+"Κάτι πήγε στραβά... Παρακαλείστε να κάνετε μια αναφορά σφάλματος…"
 
 #: ../src/control/xojfile/SaveHandler.cpp:232
 msgid "Could not write background \"{1}\", {2}"
-msgstr ""
+msgstr "Αδυναμία εγγραφής φόντου \"{1}\", {2}"
 
 #: ../src/control/xojfile/SaveHandler.cpp:328
 msgid "Could not write background \"{1}\". Continuing anyway."
-msgstr ""
+msgstr "Αδυναμία εγγραφής φόντου \"{1}\". Συνέχεια αγνοώντας το."
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:74
 msgid "Create new layer"
@@ -424,7 +428,7 @@ msgstr "Σχεδίασε Παραλληλόγραμμο"
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:410
 msgid "Draw Spline"
-msgstr ""
+msgstr "Σχεδίασε Spline"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:103
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:32
@@ -434,7 +438,7 @@ msgstr "Σχεδίασε σύστημα συντεταγμένων"
 
 #: ../src/undo/InsertUndoAction.cpp:30
 msgid "Draw stroke"
-msgstr ""
+msgstr "Πινελιά"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:91
 msgid "Drawing Type - don't change"
