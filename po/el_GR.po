@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-04 16:38\n"
+"PO-Revision-Date: 2020-04-04 23:08\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -616,7 +616,7 @@ msgstr "Το αρχείο εικόνας δημιουργήθηκε επιτυχ
 
 #: ../src/control/XournalMain.cpp:271
 msgid "Image output filename (.png / .svg)"
-msgstr ""
+msgstr "Τύπος αρχείου εικόνας εξόδου (.png / .svg)"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:17
 msgid "Images"
@@ -624,7 +624,7 @@ msgstr "Εικόνες"
 
 #: ../src/undo/InsertUndoAction.cpp:79
 msgid "Insert elements"
-msgstr ""
+msgstr "Εισαγωγή στοιχείων"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:61 ../src/undo/InsertUndoAction.cpp:34
 msgid "Insert image"
@@ -632,11 +632,11 @@ msgstr "Εισαγωγή εικόνας"
 
 #: ../src/undo/InsertUndoAction.cpp:36
 msgid "Insert latex"
-msgstr ""
+msgstr "Εισαγωγή latex"
 
 #: ../src/undo/InsertLayerUndoAction.cpp:26
 msgid "Insert layer"
-msgstr ""
+msgstr "Εισαγωγή στρώσης"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:381
 msgid "Insert page"
@@ -644,7 +644,7 @@ msgstr "Εισαγωγή σελίδας"
 
 #: ../src/control/XournalMain.cpp:272
 msgid "Jump to Page (first Page: 1)"
-msgstr ""
+msgstr "Μετάβαση στη σελίδα (πρώτη σελίδα: 1)"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:246
 msgid "Layer"
@@ -652,17 +652,17 @@ msgstr "Στρώση"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:56
 msgid "Layer Preview"
-msgstr ""
+msgstr "Προεπισκόπηση Στρώσης"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:236
 msgid "Layer selection"
-msgstr ""
+msgstr "Επιλογή στρώσης"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayerEntry.cpp:21
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:182
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:229
 msgid "Layer {1}"
-msgstr ""
+msgstr "Στρώση {1}"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:12
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:105
@@ -687,19 +687,22 @@ msgstr "Ματζέντα"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:353
 msgid "Manage Toolbars"
-msgstr ""
+msgstr "Διαχείριση γραμμής εργαλείων"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:83
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:473
 msgid "Medium"
-msgstr ""
+msgstr "Μεσαίο"
 
 #: ../src/control/XournalMain.cpp:485
 msgid "Missing the needed UI file:\n"
 "{1}\n"
 " .app corrupted?\n"
 "Path: {2}"
-msgstr ""
+msgstr "Λείπει το απαιτούμενο αρχείο UI:\n"
+"{1}\n"
+" .app αλλοιωμένο ?\n"
+"Μονοπάτι: {2}"
 
 #: ../src/undo/MoveUndoAction.cpp:17
 msgid "Move"
@@ -707,40 +710,40 @@ msgstr "Μετακίνηση"
 
 #: ../src/undo/MoveLayerUndoAction.cpp:27
 msgid "Move layer"
-msgstr ""
+msgstr "Μετακίνηση στρώσης"
 
 #: ../src/undo/SwapUndoAction.cpp:63
 msgid "Move page downwards"
-msgstr ""
+msgstr "Μετακίνηση σελίδας κάτω"
 
 #: ../src/undo/SwapUndoAction.cpp:63
 msgid "Move page upwards"
-msgstr ""
+msgstr "Μετακίνηση σελίδας πάνω"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:70
 msgid "New"
-msgstr ""
+msgstr "Νέο"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:317
 msgid "New Xournal"
-msgstr ""
+msgstr "Νέο Xournal"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:367
 msgid "Next"
-msgstr ""
+msgstr "Επόμενο"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:375
 msgid "Next annotated page"
-msgstr ""
+msgstr "Επόμενη σημειωμένη σελίδα"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:41
 msgid "No device"
-msgstr ""
+msgstr "Καμία συσκευή"
 
 #: ../src/pdf/base/XojCairoPdfExport.cpp:117
 #: ../src/pdf/base/XojCairoPdfExport.cpp:155
 msgid "No pages to export!"
-msgstr ""
+msgstr "Δεν υπάρχουν σελίδες για εξαγωγή!"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:93
 msgid "Normal drawing"
@@ -748,16 +751,17 @@ msgstr ""
 
 #: ../src/plugin/Plugin.cpp:308 ../src/plugin/Plugin.cpp:327
 msgid "OK"
-msgstr ""
+msgstr "ΟΚ"
 
 #: ../src/control/jobs/BaseExportJob.cpp:86
 msgid "Only local files are supported\n"
 "Path: {1}"
-msgstr ""
+msgstr "Μόνο τοπικά αρχεία υποστηρίζονται\n"
+"Μονοπάτι: {1}"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 msgid "Open Image"
-msgstr ""
+msgstr "Άνοιγμα εικόνας"
 
 #: ../src/control/XournalMain.cpp:115
 msgid "Open Logfile"
@@ -770,12 +774,12 @@ msgstr ""
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:318
 msgid "Open file"
-msgstr ""
+msgstr "Άνοιγμα αρχείου"
 
 #: ../src/control/RecentManager.cpp:181
 msgctxt "{1} is a URI"
 msgid "Open {1}"
-msgstr ""
+msgstr "Άνοιγμα {1}"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:18
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:111
@@ -788,7 +792,7 @@ msgstr "Εξαγωγή σε PDF"
 
 #: ../src/gui/MainWindow.cpp:628
 msgid "PDF Page {1}"
-msgstr ""
+msgstr "PDF σελίδα {1}"
 
 #: ../src/view/PdfView.cpp:32
 msgid "PDF background missing"
