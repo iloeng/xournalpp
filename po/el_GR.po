@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-04 23:15\n"
+"PO-Revision-Date: 2020-04-04 23:21\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1175,7 +1175,7 @@ msgstr ""
 #: ../src/gui/dialog/ButtonConfigGui.cpp:84
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:474
 msgid "Thick"
-msgstr ""
+msgstr "Παχύ"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:81
 msgid "Thickness - don't change"
@@ -1221,11 +1221,11 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:325
 #: ../src/undo/UndoRedoHandler.cpp:203
 msgid "Undo"
-msgstr ""
+msgstr "Αναίρεση"
 
 #: ../src/undo/UndoRedoHandler.cpp:198
 msgid "Undo: "
-msgstr ""
+msgstr "Αναίρεση: "
 
 #: ../src/control/xojfile/LoadHandler.cpp:278
 msgid "Unexpected root tag: {1}"
@@ -1273,7 +1273,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:471
 msgid "Very Fine"
-msgstr ""
+msgstr "Πολύ λεπτό"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:476
 msgid "Very Thick"
@@ -1282,23 +1282,23 @@ msgstr ""
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:20
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:113
 msgid "White"
-msgstr ""
+msgstr "Λευκό"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:29
 msgid "With PDF background"
-msgstr ""
+msgstr "Με φόντο PDF"
 
 #: ../src/undo/InsertUndoAction.cpp:32
 msgid "Write text"
-msgstr ""
+msgstr "Σύνταξη κειμένου"
 
 #: ../src/control/xojfile/LoadHandler.cpp:896
 msgid "Wrong count of points ({1})"
-msgstr ""
+msgstr "Λάθος μέτρημα σημείων ({1})"
 
 #: ../src/control/xojfile/LoadHandler.cpp:906
 msgid "Wrong number of points, got {1}, expected {2}"
-msgstr ""
+msgstr "Λάθος αριθμός σημείων, βρέθηκαν {1}, περιμέναμε {2}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:218
 msgid "XML Parser error: {1}"
@@ -1306,7 +1306,7 @@ msgstr ""
 
 #: ../src/control/jobs/CustomExportJob.cpp:26
 msgid "Xournal (Compatibility)"
-msgstr ""
+msgstr "Xournal (Συμβατότητα)"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:50
 msgid "Xournal files"
@@ -1370,29 +1370,29 @@ msgstr ""
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Cancel"
-msgstr ""
+msgstr "_Άκυρο"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:12
 #: ../src/control/stockdlg/XojOpenDlg.cpp:12
 msgid "_Open"
-msgstr ""
+msgstr "_Άνοιγμα"
 
 #: ../src/control/Control.cpp:2279 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Save"
-msgstr ""
+msgstr "_Αποθήκευση"
 
 #: ../src/util/DeviceListHelper.cpp:96
 msgid "cursor"
-msgstr ""
+msgstr "κέρσορας"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:236
 msgid "dash-/ dotted"
-msgstr ""
+msgstr "διακεκομμένο και τελείες"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:233
 msgid "dashed"
-msgstr ""
+msgstr "διακεκομμένο"
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default disabled"
@@ -1412,27 +1412,27 @@ msgstr ""
 
 #: ../src/undo/AddUndoAction.cpp:86 ../src/undo/DeleteUndoAction.cpp:83
 msgid "elements"
-msgstr ""
+msgstr "στοιχεία"
 
 #: ../src/util/DeviceListHelper.cpp:94
 msgid "eraser"
-msgstr ""
+msgstr "γόμα"
 
 #: ../src/undo/AddUndoAction.cpp:97 ../src/undo/DeleteUndoAction.cpp:94
 msgid "image"
-msgstr ""
+msgstr "εικόνα"
 
 #: ../src/util/DeviceListHelper.cpp:99
 msgid "keyboard"
-msgstr ""
+msgstr "πληκτρολόγιο"
 
 #: ../src/undo/AddUndoAction.cpp:100 ../src/undo/DeleteUndoAction.cpp:97
 msgid "latex"
-msgstr ""
+msgstr "latex"
 
 #: ../src/util/DeviceListHelper.cpp:90
 msgid "mouse"
-msgstr ""
+msgstr "ποντίκι"
 
 #: ../src/control/LatexController.cpp:264
 msgid "pdflatex encountered an error: {1} (exit code: {2})"
@@ -1440,11 +1440,11 @@ msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:92
 msgid "pen"
-msgstr ""
+msgstr "στυλό"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:153
 msgid "show"
-msgstr ""
+msgstr "προβολή"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:230
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:249
@@ -2739,7 +2739,7 @@ msgstr ""
 
 #: ../ui/main.glade:1491 ../ui/main.glade:1637 ../ui/main.glade:1746
 msgid "_fine"
-msgstr ""
+msgstr "_λεπτό"
 
 #: ../ui/main.glade:1502 ../ui/main.glade:1648 ../ui/main.glade:1757
 msgid "_medium"
@@ -2755,7 +2755,7 @@ msgstr ""
 
 #: ../ui/main.glade:1480 ../ui/main.glade:1626 ../ui/main.glade:1735
 msgid "_very fine"
-msgstr ""
+msgstr "_πολύ λεπτό"
 
 #: ../ui/main.glade:1698
 msgid "_whiteout"
