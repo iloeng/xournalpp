@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-04 23:21\n"
+"PO-Revision-Date: 2020-04-04 23:29\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1347,15 +1347,15 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:358
 msgid "Zoom fit to screen"
-msgstr ""
+msgstr "Μεγέθυνση εφαρμοσμένη στην οθόνη"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:357
 msgid "Zoom in"
-msgstr ""
+msgstr "Μεγέθυνση"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:356
 msgid "Zoom out"
-msgstr ""
+msgstr "Σμίκρυνση"
 
 #: ../src/gui/toolbarMenubar/ToolZoomSlider.cpp:72
 msgid "Zoom slider"
@@ -1363,7 +1363,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:359
 msgid "Zoom to 100%"
-msgstr ""
+msgstr "Μεγέθυνση στο 100%"
 
 #: ../src/control/Control.cpp:2278 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
@@ -1404,11 +1404,11 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:251
 msgid "delete stroke"
-msgstr ""
+msgstr "διαγραφή πινελιάς"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:239
 msgid "dotted"
-msgstr ""
+msgstr "τελείες"
 
 #: ../src/undo/AddUndoAction.cpp:86 ../src/undo/DeleteUndoAction.cpp:83
 msgid "elements"
@@ -1453,7 +1453,7 @@ msgstr ""
 
 #: ../src/undo/AddUndoAction.cpp:94 ../src/undo/DeleteUndoAction.cpp:91
 msgid "stroke"
-msgstr ""
+msgstr "πινελιά"
 
 #: ../src/util/DeviceListHelper.cpp:108
 msgid "tablet pad"
@@ -1461,7 +1461,7 @@ msgstr ""
 
 #: ../src/undo/AddUndoAction.cpp:103 ../src/undo/DeleteUndoAction.cpp:100
 msgid "text"
-msgstr ""
+msgstr "κείμενο"
 
 #: ../src/util/DeviceListHelper.cpp:103
 msgid "touchpad"
@@ -1517,7 +1517,7 @@ msgstr ""
 
 #: ../src/util/Util.cpp:96
 msgid "xournalpp-{1}"
-msgstr ""
+msgstr "xournalpp-{1}"
 
 #: ../ui/main.glade:31
 msgid " = Floating Toolbox (experimental) ="
@@ -1525,7 +1525,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2635 ../ui/settings.glade:2646
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: ../ui/settings.glade:425
 msgid "%a\t\tAbbreviated weekday name (e.g. Thu)\n"
@@ -1560,7 +1560,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3968
 msgid "1,00"
-msgstr ""
+msgstr "1,00"
 
 #: ../ui/images.glade:88
 msgid "<b>... or select already used Image:</b>"
@@ -1734,7 +1734,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:142
 msgid "All pages"
-msgstr ""
+msgstr "Όλες οι σελίδες"
 
 #: ../ui/settings.glade:3396
 msgid "All three conditions must be met before stroke is ignored.\n"
@@ -1743,23 +1743,23 @@ msgstr ""
 
 #: ../ui/settings.glade:3830
 msgid "Audio Devices"
-msgstr ""
+msgstr "Συσκευές Ήχου"
 
 #: ../ui/settings.glade:4035
 msgid "Audio Recording"
-msgstr ""
+msgstr "Καταγραφή ήχου"
 
 #: ../ui/pluginEntry.glade:57
 msgid "Author: "
-msgstr ""
+msgstr "Συγγραφέας: "
 
 #: ../ui/about.glade:186
 msgid "Authors:"
-msgstr ""
+msgstr "Συγγραφείς:"
 
 #: ../ui/settings.glade:1522
 msgid "Autodetect"
-msgstr ""
+msgstr "Αυτόματος Εντοπισμός"
 
 #: ../ui/settings.glade:566
 msgid "Autoloading Journals"
@@ -1803,7 +1803,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2096
 msgid "Colors"
-msgstr ""
+msgstr "Χρώματα"
 
 #: ../ui/main.glade:1134
 msgid "Configure Page Template"
@@ -1819,7 +1819,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
-msgstr ""
+msgstr "Τρέχουσα σελίδα"
 
 #: ../ui/settings.glade:2182
 msgid "Cursor"
@@ -1855,19 +1855,19 @@ msgstr ""
 
 #: ../ui/settingsButtonConfig.glade:132
 msgid "Delete stroke"
-msgstr ""
+msgstr "Διαγραφή πινελιάς"
 
 #: ../ui/main.glade:2136
 msgid "Delete this page"
-msgstr ""
+msgstr "Διαγραφή της σελίδας"
 
 #: ../ui/settingsButtonConfig.glade:25
 msgid "Device"
-msgstr ""
+msgstr "Συσκευή"
 
 #: ../ui/settings.glade:1627
 msgid "Disable"
-msgstr ""
+msgstr "Απενεργοποίηση"
 
 #: ../ui/settingsButtonConfig.glade:50
 msgid "Disable drawing for this device"
