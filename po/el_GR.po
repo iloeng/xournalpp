@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-05 21:02\n"
+"PO-Revision-Date: 2020-04-05 22:02\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -19,13 +19,13 @@ msgstr ""
 msgid "\n\n"
 "Will now attempt to run without this file."
 msgstr "\n\n"
-"Θα προσθέσουμε να εκτελέσουμε χωρίς αυτό το αρχείο."
+"Θα προσπαθήσουμε να εκτελέσουμε χωρίς αυτό το αρχείο."
 
 #: ../src/control/XournalMain.cpp:488
 msgid "\n"
 "Will now attempt to run without this file."
 msgstr "\n"
-"Θα προσθέσουμε να εκτελέσουμε χωρίς αυτό το αρχείο."
+"Θα προσπαθήσουμε να εκτελέσουμε χωρίς αυτό το αρχείο."
 
 #: ../src/gui/MainWindow.cpp:630
 msgctxt "Page {pagenumber} \"of {pagecount}\""
@@ -56,7 +56,7 @@ msgstr "<span foreground='red' size='x-large'>Το απαιτούμενο αρχ
 
 #: ../src/control/XournalMain.cpp:273
 msgid "Absolute path for the audio files playback"
-msgstr "Απόλυτη διεύθυνση για αναπαραγωγή αρχείων ήχου"
+msgstr "Απόλυτη μονοπάτι για αναπαραγωγή αρχείων ήχου"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:399
 msgid "Add/Edit Tex"
@@ -136,7 +136,7 @@ msgstr "Πίσω"
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:191
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:231
 msgid "Background"
-msgstr "Υπόβαθρο"
+msgstr "Φόντο"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:10
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:103
@@ -163,11 +163,11 @@ msgstr "Αλλαγή γραμματοσειράς"
 
 #: ../src/undo/FillUndoAction.cpp:79
 msgid "Change stroke fill"
-msgstr "Αλλαγή χρώματος μολυβιάς"
+msgstr "Αλλαγή χρώματος πινελιάς"
 
 #: ../src/undo/SizeUndoAction.cpp:104
 msgid "Change stroke width"
-msgstr "Αλλαγή πάχους μολυβιάς"
+msgstr "Αλλαγή πάχους πινελιάς"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:70
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
@@ -460,7 +460,7 @@ msgstr "Διαγραφή πινελιάς"
 #: ../src/gui/dialog/ButtonConfigGui.cpp:58
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:247
 msgid "Eraser"
-msgstr "Σβήστρα"
+msgstr "Γόμα"
 
 #: ../src/control/Control.cpp:2188
 msgid "Error annotate PDF file \"{1}\"\n"
@@ -1179,7 +1179,7 @@ msgstr "Παχύ"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:81
 msgid "Thickness - don't change"
-msgstr ""
+msgstr "Πάχος - καμία αλλαγή"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:82
 msgid "Thin"
@@ -1196,15 +1196,15 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:351
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "Εναλλαγή πλήρης οθόνης"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:56
 msgid "Tool - don't change"
-msgstr ""
+msgstr "Εργαλείο - καμία αλλαγή"
 
 #: ../src/gui/toolbarMenubar/model/ToolbarData.cpp:106
 msgid "Toolbar found: {1}"
-msgstr ""
+msgstr "Γραμμή εργαλείων βρέθηκε: {1}"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:45
 msgid "Toolbars"
@@ -1779,15 +1779,15 @@ msgstr ""
 
 #: ../ui/settings.glade:2160
 msgid "Big cursor for pen"
-msgstr ""
+msgstr "Μεγάλος κέρσορας για το στυλό"
 
 #: ../ui/settings.glade:2015
 msgid "Border color"
-msgstr ""
+msgstr "Χρώμα περιγράμματος"
 
 #: ../ui/settings.glade:2000
 msgid "Border color for current page and other selections"
-msgstr ""
+msgstr "Χρώμα περιγράμματος για την τρέχουσα σελίδα και τις άλλες επιλεγμένες"
 
 #: ../ui/about.glade:127
 msgid "Built on"
