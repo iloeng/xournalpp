@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-05 00:54\n"
+"PO-Revision-Date: 2020-04-05 01:04\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -974,7 +974,7 @@ msgstr "Αποθήκευση Αρχείου"
 #: ../src/control/jobs/CustomExportJob.cpp:128
 #: ../src/control/jobs/SaveJob.cpp:112
 msgid "Save file error: {1}"
-msgstr ""
+msgstr "Σφάλμα αποθήκευσης αρχείου: {1}"
 
 #: ../src/undo/ScaleUndoAction.cpp:52
 msgid "Scale"
@@ -982,17 +982,17 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:334
 msgid "Search"
-msgstr ""
+msgstr "Αναζήτηση"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:421
 msgid "Select Font"
-msgstr ""
+msgstr "Επιλογή Γραμματοσειράς"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:416
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:19
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:66
 msgid "Select Object"
-msgstr ""
+msgstr "Επιλογή Αντικειμένου"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:414
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:14
@@ -1000,13 +1000,13 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:56
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:86
 msgid "Select Rectangle"
-msgstr ""
+msgstr "Ορθογώνια Επιλογή"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:412
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:18
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:61
 msgid "Select Region"
-msgstr ""
+msgstr "Επιλογή Περιοχής"
 
 #: ../src/control/Control.cpp:1996
 msgid "Select another PDF"
@@ -1039,7 +1039,7 @@ msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:50
 msgid "Separator"
-msgstr ""
+msgstr "Διαχωριστικό"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:403
 msgid "Shape Recognizer"
@@ -1047,7 +1047,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:63
 msgid "Show all"
-msgstr ""
+msgstr "Εμφάνιση όλων"
 
 #: ../src/gui/dialog/backgroundSelect/PdfPagesDialog.cpp:88
 msgid "Show only not used pages (one unused page)"
