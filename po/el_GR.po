@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-05 01:28\n"
+"PO-Revision-Date: 2020-04-05 15:23\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1031,11 +1031,11 @@ msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:63
 msgid "Select region"
-msgstr ""
+msgstr "Επιλογή περιοχής"
 
 #: ../src/control/XournalMain.cpp:114
 msgid "Send Bugreport"
-msgstr ""
+msgstr "Στείλε Αναφορά Σφάλματος"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:50
 msgid "Separator"
