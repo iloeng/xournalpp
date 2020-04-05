@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-05 01:04\n"
+"PO-Revision-Date: 2020-04-05 01:28\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1093,7 +1093,7 @@ msgstr ""
 #: ../src/gui/dialog/ButtonConfigGui.cpp:60
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:398
 msgid "Text"
-msgstr ""
+msgstr "Κείμενο"
 
 #: ../src/gui/SearchBar.cpp:67
 #, c-format
