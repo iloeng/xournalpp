@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-05 20:53\n"
+"PO-Revision-Date: 2020-04-05 21:02\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1767,7 +1767,7 @@ msgstr ""
 
 #: ../ui/settings.glade:323
 msgid "Autosaving"
-msgstr ""
+msgstr "Γίνεται αυτόματη αποθήκευση"
 
 #: ../ui/settings.glade:472
 msgid "Available Placeholders"
@@ -1795,11 +1795,11 @@ msgstr ""
 
 #: ../ui/settings.glade:1208
 msgid "Button 1"
-msgstr ""
+msgstr "Κουμπί 1"
 
 #: ../ui/settings.glade:1246
 msgid "Button 2"
-msgstr ""
+msgstr "Κουμπί 2"
 
 #: ../ui/settings.glade:2096
 msgid "Colors"
@@ -1823,7 +1823,7 @@ msgstr "Τρέχουσα σελίδα"
 
 #: ../ui/settings.glade:2182
 msgid "Cursor"
-msgstr ""
+msgstr "Κέρσορας"
 
 #: ../ui/settings.glade:1699
 msgid "Custom Commands (for Method \"Custom\")"
@@ -1843,15 +1843,15 @@ msgstr ""
 
 #: ../ui/settings.glade:386
 msgid "Default name: "
-msgstr ""
+msgstr "Προεπιλεγμένο όνομα: "
 
 #: ../ui/settings.glade:3608
 msgid "Defaults"
-msgstr ""
+msgstr "Προεπιλογές"
 
 #: ../ui/main.glade:1172
 msgid "Delete Layer"
-msgstr ""
+msgstr "Διαγραφή Στρώσης"
 
 #: ../ui/settingsButtonConfig.glade:132
 msgid "Delete stroke"
@@ -1906,11 +1906,11 @@ msgstr ""
 
 #: ../ui/main.glade:1364
 msgid "Draw _Line"
-msgstr ""
+msgstr "Σχεδίασε _Γραμμή"
 
 #: ../ui/settings.glade:3462
 msgid "Drawing Area"
-msgstr ""
+msgstr "Περιοχή Σχεδιασμού"
 
 #: ../ui/settings.glade:3234
 msgid "Drawing Tools - Set Modifiers by Draw Direction (Experimental)"
@@ -1918,15 +1918,15 @@ msgstr ""
 
 #: ../ui/main.glade:2540
 msgid "Duplicate"
-msgstr ""
+msgstr "Δημιουργία διπλοτύπου / αντιγράφου"
 
 #: ../ui/main.glade:2577
 msgid "Edit (not implemented yet)"
-msgstr ""
+msgstr "Επεξεργασία (μη υλοποιημένο)"
 
 #: ../ui/settings.glade:1615
 msgid "Enable"
-msgstr ""
+msgstr "Ενεργοποίηση"
 
 #: ../ui/settings.glade:3179
 msgid "Enable  with determination radius of "
@@ -1986,11 +1986,11 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:25
 msgid "Export"
-msgstr ""
+msgstr "Εξαγωγή"
 
 #: ../ui/main.glade:250
 msgid "Export as..."
-msgstr ""
+msgstr "Εξαγωγή ως..."
 
 #: ../ui/main.glade:1591 ../ui/main.glade:1796
 msgid "Fi_ll"
@@ -2050,15 +2050,15 @@ msgstr ""
 
 #: ../ui/pagesize.glade:212
 msgid "Height:"
-msgstr ""
+msgstr "Ύψος:"
 
 #: ../ui/main.glade:888 ../ui/settings.glade:2357 ../ui/settings.glade:2424
 msgid "Hide Menubar"
-msgstr ""
+msgstr "Απόκρυψη γραμμής μενού"
 
 #: ../ui/settings.glade:2373 ../ui/settings.glade:2440
 msgid "Hide Sidebar"
-msgstr ""
+msgstr "Απόκρυψη πλευρικής μπάρας"
 
 #: ../ui/settings.glade:2278
 msgid "Hide the horizontal scrollbar"
@@ -2615,23 +2615,23 @@ msgstr ""
 
 #: ../ui/main.glade:240
 msgid "_Export as PDF"
-msgstr ""
+msgstr "_Εξαγωγή ως PDF"
 
 #: ../ui/main.glade:155
 msgid "_File"
-msgstr ""
+msgstr "_Αρχείο"
 
 #: ../ui/main.glade:967
 msgid "_First Page"
-msgstr ""
+msgstr "_Πρώτη σελίδα"
 
 #: ../ui/main.glade:989
 msgid "_Goto Page"
-msgstr ""
+msgstr "_Μετάβαση σε σελίδα"
 
 #: ../ui/main.glade:1921
 msgid "_Help"
-msgstr ""
+msgstr "_Βοήθεια"
 
 #: ../ui/main.glade:1257
 msgid "_Highlighter"
@@ -2767,7 +2767,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:223
 msgid "dpi"
-msgstr ""
+msgstr "dpi"
 
 #: ../ui/pluginEntry.glade:130
 msgid "enabled,"
@@ -2779,7 +2779,7 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:51
 msgid "load from file"
-msgstr ""
+msgstr "φόρτωση από αρχείο"
 
 #: ../ui/settings.glade:293
 msgid "minutes"
@@ -2788,7 +2788,7 @@ msgstr ""
 #: ../ui/settings.glade:2960 ../ui/settings.glade:2971
 #: ../ui/settings.glade:3219
 msgid "pixels"
-msgstr ""
+msgstr "pixels"
 
 #: ../ui/settings.glade:1551
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
@@ -2796,9 +2796,9 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:37
 msgid "save to file"
-msgstr ""
+msgstr "Αποθήκευση σε αρχείο"
 
 #: ../ui/main.glade:1524 ../ui/main.glade:1670 ../ui/main.glade:1779
 msgid "ver_y thick"
-msgstr ""
+msgstr "πολ_ύ παχύ"
 
