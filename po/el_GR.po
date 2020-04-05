@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-05 00:47\n"
+"PO-Revision-Date: 2020-04-05 00:54\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -818,11 +818,11 @@ msgstr ""
 
 #: ../src/control/jobs/CustomExportJob.cpp:22
 msgid "PNG graphics"
-msgstr ""
+msgstr "PNG γραφικά"
 
 #: ../src/control/jobs/CustomExportJob.cpp:23
 msgid "PNG with transparent background"
-msgstr ""
+msgstr "PNG με διαφανές φόντο"
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:42
 msgid "Page"
@@ -842,7 +842,7 @@ msgstr "Σελίδα διαγράφηκε"
 
 #: ../src/undo/InsertDeletePageUndoAction.cpp:94
 msgid "Page inserted"
-msgstr ""
+msgstr "Η σελίδα εισήχθη"
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:31
 msgid "Page number"
@@ -882,7 +882,7 @@ msgstr "Προκαθορισμένο"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:350
 msgid "Presentation mode"
-msgstr ""
+msgstr "Λειτουργία παρουσίασης"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:425
 msgid "Record Audio / Stop Recording"
@@ -908,19 +908,19 @@ msgstr "Ακύρωση Αναίρεσης: "
 
 #: ../src/control/Control.cpp:1997
 msgid "Remove PDF Background"
-msgstr ""
+msgstr "Αφαίρεση φόντου PDF"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:160
 msgid "Removed tool item from Toolbar {1} ID {2}"
-msgstr ""
+msgstr "Αφαιρέθηκε εργαλείο από την γραμμή εργαλείων {1} ID {2}"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:158
 msgid "Removed tool item {1} from Toolbar {2} ID {3}"
-msgstr ""
+msgstr "Αφαιρέθηκε το εργαλείο {1} από την γραμμή εργαλείων {2} ID {3}"
 
 #: ../src/util/XojMsgBox.cpp:71
 msgid "Replace"
-msgstr ""
+msgstr "Αντικατάσταση"
 
 #: ../src/control/xojfile/LoadHandler.cpp:1041
 msgid "Requested temporary file was not found for attachment {1}"
@@ -948,28 +948,28 @@ msgstr "Ριγέ με κάθετη"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:409
 msgid "Ruler"
-msgstr ""
+msgstr "Χάρακας"
 
 #: ../src/control/jobs/CustomExportJob.cpp:24
 msgid "SVG graphics"
-msgstr ""
+msgstr "SVG γραφικά"
 
 #: ../src/control/jobs/CustomExportJob.cpp:25
 msgid "SVG with transparent background"
-msgstr ""
+msgstr "SVG με διαφανές φόντο"
 
 #: ../src/control/Control.cpp:2442 ../src/control/jobs/SaveJob.cpp:13
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:319
 msgid "Save"
-msgstr ""
+msgstr "Αποθήκευση"
 
 #: ../src/control/Control.cpp:2442
 msgid "Save As..."
-msgstr ""
+msgstr "Αποθήκευση Ως..."
 
 #: ../src/control/Control.cpp:2278 ../src/gui/dialog/PageTemplateDialog.cpp:83
 msgid "Save File"
-msgstr ""
+msgstr "Αποθήκευση Αρχείου"
 
 #: ../src/control/jobs/CustomExportJob.cpp:128
 #: ../src/control/jobs/SaveJob.cpp:112
