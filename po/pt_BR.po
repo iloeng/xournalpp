@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-03 03:38\n"
+"PO-Revision-Date: 2020-04-05 19:09\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -81,20 +81,20 @@ msgstr ""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:104
 msgid "Attribute \"{1}\" could not be parsed as double, the value is \"{2}\""
-msgstr ""
+msgstr "O atributo \"{1}\" não pôde ser analisado como double, o valor é \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:97
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
-msgstr ""
+msgstr "O atributo \"{1}\" não pôde ser analisado como double, o valor é nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:121
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:140
 msgid "Attribute \"{1}\" could not be parsed as int, the value is \"{2}\""
-msgstr ""
+msgstr "O atributo \"{1}\" não pôde ser analisado como inteiro, o valor é \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:114
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
-msgstr ""
+msgstr "O atributo \"{1}\" não pôde ser analisado como inteiro, o valor é nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:159
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:179
