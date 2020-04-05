@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-05 15:23\n"
+"PO-Revision-Date: 2020-04-05 15:33\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1027,7 +1027,7 @@ msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:64
 msgid "Select rectangle"
-msgstr ""
+msgstr "Ορθογώνια επιλογή"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:63
 msgid "Select region"
@@ -1088,7 +1088,7 @@ msgstr ""
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:93
 msgid "Supported files"
-msgstr ""
+msgstr "Υποστηριζόμενα αρχεία"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:60
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:398
@@ -1118,11 +1118,11 @@ msgstr ""
 
 #: ../src/gui/SearchBar.cpp:72
 msgid "Text not found"
-msgstr ""
+msgstr "Δεν βρέθηκε το κείμενο"
 
 #: ../src/gui/SearchBar.cpp:134 ../src/gui/SearchBar.cpp:178
 msgid "Text not found, searched on all pages"
-msgstr ""
+msgstr "Δεν βρέθηκε το κείμενο, αναζητήθηκε σε όλες τις σελίδες"
 
 #: ../src/control/Control.cpp:1058
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
@@ -1183,7 +1183,7 @@ msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:82
 msgid "Thin"
-msgstr ""
+msgstr "Λεπτό"
 
 #: ../src/control/Control.cpp:2441
 msgid "This document is not saved yet."
