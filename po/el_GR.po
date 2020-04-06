@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-06 06:55\n"
+"PO-Revision-Date: 2020-04-06 09:21\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -163,11 +163,11 @@ msgstr "Αλλαγή γραμματοσειράς"
 
 #: ../src/undo/FillUndoAction.cpp:79
 msgid "Change stroke fill"
-msgstr "Αλλαγή χρώματος πινελιάς"
+msgstr "Αλλαγή χρώματος μολυβιάς"
 
 #: ../src/undo/SizeUndoAction.cpp:104
 msgid "Change stroke width"
-msgstr "Αλλαγή πάχους πινελιάς"
+msgstr "Αλλαγή πάχους μολυβιάς"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:70
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
@@ -438,7 +438,7 @@ msgstr "Σχεδίασε σύστημα συντεταγμένων"
 
 #: ../src/undo/InsertUndoAction.cpp:30
 msgid "Draw stroke"
-msgstr "Πινελιά"
+msgstr "Μολυβιά"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:91
 msgid "Drawing Type - don't change"
@@ -455,7 +455,7 @@ msgstr "Αρχείο από επείγουσα αποθήκευση"
 #: ../src/undo/AddUndoAction.cpp:75 ../src/undo/DeleteUndoAction.cpp:71
 #: ../src/undo/EraseUndoAction.cpp:90
 msgid "Erase stroke"
-msgstr "Διαγραφή πινελιάς"
+msgstr "Διαγραφή μολυβιάς"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:58
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:247
@@ -487,7 +487,7 @@ msgstr "Σφάλμα ανάγνωσης PDF: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:506
 msgid "Error reading width of a stroke: {1}"
-msgstr "Σφάλμα ανάγνωσης πλάτους μιας πινελιάς: {1}"
+msgstr "Σφάλμα ανάγνωσης πλάτους μιας μολυβιάς: {1}"
 
 #: ../src/control/jobs/ImageExport.cpp:104
 msgid "Error save image #1"
@@ -890,7 +890,7 @@ msgstr "Εγγραφή ήχου / Λήξη εγγραφής"
 
 #: ../src/control/Control.cpp:899
 msgid "Recorder could not be started."
-msgstr ""
+msgstr "Δεν ήταν δυνατή η εκκίνηση της εγγραφής."
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:16
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:109
@@ -1043,7 +1043,7 @@ msgstr "Διαχωριστικό"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:403
 msgid "Shape Recognizer"
-msgstr ""
+msgstr "Αναγνωρισμός Σχήματος"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:63
 msgid "Show all"
@@ -1081,7 +1081,7 @@ msgstr "Διακοπή"
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:35
 #: ../src/undo/RecognizerUndoAction.cpp:72
 msgid "Stroke recognizer"
-msgstr ""
+msgstr "Αναγνωρισμός μολυβιάς"
 
 #: ../src/util/CrashHandler.cpp:41
 msgid "Successfully saved document to \"{1}\""
@@ -1139,23 +1139,23 @@ msgstr "Το φόντο PDF δεν βρέθηκε."
 
 #: ../src/control/xojfile/LoadHandler.cpp:115
 msgid "The file is no valid .xopp file (Mimetype missing): \"{1}\""
-msgstr ""
+msgstr "Το αρχείο δεν είναι έγκυρο .xopp αρχείο (έλλειψη Mimetype): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:122
 msgid "The file is no valid .xopp file (Mimetype wrong): \"{1}\""
-msgstr ""
+msgstr "Το αρχείο δεν είναι έγκυρο .xopp αρχείο (λάθος Mimetype): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:130
 msgid "The file is no valid .xopp file (Version missing): \"{1}\""
-msgstr ""
+msgstr "Το αρχείο δεν είναι έγκυρο .xopp αρχείο (έλλειψη Version): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:143
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
-msgstr ""
+msgstr "Το αρχείο δεν είναι έγκυρο .xopp αρχείο (Version string κατεστραμμένο): \"{1}\""
 
 #: ../src/control/LatexController.cpp:307
 msgid "The formula is empty when rendered or invalid."
-msgstr ""
+msgstr "Ο τύπος είναι κενός όταν αποδίδεται ή μη έγκυρος."
 
 #: ../src/control/XournalMain.cpp:109
 msgid "The most recent log file name: {1}"
@@ -1262,7 +1262,7 @@ msgstr ""
 
 #: ../src/control/Control.cpp:2342
 msgid "Unsaved Document"
-msgstr ""
+msgstr "Μη Αποθηκευμένο Έγγραφο"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:417
 msgid "Vertical Space"
@@ -1311,20 +1311,20 @@ msgstr "Xournal (Συμβατότητα)"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:50
 msgid "Xournal files"
-msgstr ""
+msgstr "Αρχεία Xournal"
 
 #: ../src/control/XournalMain.cpp:156
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
-msgstr ""
+msgstr "Το Xournal++ κατέρρευσε την προηγούμενη φορά. Θα θέλατε να επαναφέρετε το τελευταίο αρχείο που επεξεργαστήκατε;"
 
 #: ../src/control/Control.cpp:2284 ../src/control/stockdlg/XojOpenDlg.cpp:57
 msgid "Xournal++ files"
-msgstr ""
+msgstr "Αρχεία Xournal++"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:64
 #: ../src/gui/dialog/PageTemplateDialog.cpp:89
 msgid "Xournal++ template"
-msgstr ""
+msgstr "Πρότυπο Xournal++"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:19
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:112
@@ -1397,15 +1397,15 @@ msgstr "διακεκομμένο"
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default disabled"
-msgstr ""
+msgstr "προεπιλογή απενεργοποιημένη"
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default enabled"
-msgstr ""
+msgstr "προεπιλογή ενεργοποιημένη"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:251
 msgid "delete stroke"
-msgstr "διαγραφή πινελιάς"
+msgstr "διαγραφή μολυβιάς"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:239
 msgid "dotted"
@@ -1437,7 +1437,7 @@ msgstr "ποντίκι"
 
 #: ../src/control/LatexController.cpp:264
 msgid "pdflatex encountered an error: {1} (exit code: {2})"
-msgstr ""
+msgstr "το pdflatex αντιμετώπισε σφάλμα: {1} (κωδικός εξόδου: {2})"
 
 #: ../src/util/DeviceListHelper.cpp:92
 msgid "pen"
@@ -1450,15 +1450,15 @@ msgstr "προβολή"
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:230
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:249
 msgid "standard"
-msgstr ""
+msgstr "κανονικό"
 
 #: ../src/undo/AddUndoAction.cpp:94 ../src/undo/DeleteUndoAction.cpp:91
 msgid "stroke"
-msgstr "πινελιά"
+msgstr "μολυβιά"
 
 #: ../src/util/DeviceListHelper.cpp:108
 msgid "tablet pad"
-msgstr ""
+msgstr "γραφίδα σχεδίασης"
 
 #: ../src/undo/AddUndoAction.cpp:103 ../src/undo/DeleteUndoAction.cpp:100
 msgid "text"
@@ -1466,23 +1466,23 @@ msgstr "κείμενο"
 
 #: ../src/util/DeviceListHelper.cpp:103
 msgid "touchpad"
-msgstr ""
+msgstr "touchpad"
 
 #: ../src/util/DeviceListHelper.cpp:101
 msgid "touchscreen"
-msgstr ""
+msgstr "οθόνη αφής"
 
 #: ../src/util/DeviceListHelper.cpp:106
 msgid "trackpoint"
-msgstr ""
+msgstr "trackpoint"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:250
 msgid "whiteout"
-msgstr ""
+msgstr "διορθωτικό υγρό"
 
 #: ../src/control/xojfile/LoadHandler.cpp:905
 msgid "xoj-File: {1}"
-msgstr ""
+msgstr "xoj-Αρχείο: {1}"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:71
 msgid "xoj-preview-extractor: call with INPUT.xoj OUTPUT.png"
@@ -1522,7 +1522,7 @@ msgstr "xournalpp-{1}"
 
 #: ../ui/main.glade:31
 msgid " = Floating Toolbox (experimental) ="
-msgstr ""
+msgstr " = Αιωρούμενο κουτί εργαλείων (πειραματικό) ="
 
 #: ../ui/settings.glade:2635 ../ui/settings.glade:2646
 msgid "%"
@@ -1719,19 +1719,19 @@ msgstr ""
 
 #: ../ui/about.glade:9
 msgid "About Xournal++"
-msgstr ""
+msgstr "Σχετικά με το Xournal++"
 
 #: ../ui/settings.glade:3430
 msgid "Action on Tool Tap"
-msgstr ""
+msgstr "Ενέργεια κατά το στιγμιαίο κλικ"
 
 #: ../ui/settings.glade:2921
 msgid "Add additional horizontal space of"
-msgstr ""
+msgstr "Προσθήκη οριζόντιου χώρου μεγέθους"
 
 #: ../ui/settings.glade:2899
 msgid "Add additional vertical space of"
-msgstr ""
+msgstr "Προσθήκη κατακόρυφου χώρου μεγέθους"
 
 #: ../ui/exportSettings.glade:142
 msgid "All pages"
@@ -1740,7 +1740,8 @@ msgstr "Όλες οι σελίδες"
 #: ../ui/settings.glade:3396
 msgid "All three conditions must be met before stroke is ignored.\n"
 "It must be short in time and length and we can't have ignored another stroke recently."
-msgstr ""
+msgstr "Πρέπει να ικανοποιηθούν και οι τρεις συνθήκες για να αγνοηθεί η μολυβιά.\n"
+"Πρέπει να είναι μικρής διάρκειας και μήκους και δεν πρέπει να έχει αγνοηθεί πρόσφατα άλλη μολυβιά."
 
 #: ../ui/settings.glade:3830
 msgid "Audio Devices"
@@ -1772,11 +1773,11 @@ msgstr "Γίνεται αυτόματη αποθήκευση"
 
 #: ../ui/settings.glade:472
 msgid "Available Placeholders"
-msgstr ""
+msgstr "Διαθέσιμοι κωδικοποιημένοι χαρακτήρες"
 
 #: ../ui/settings.glade:2026
 msgid "Background color between pages"
-msgstr ""
+msgstr "Χρώμα φόντου μεταξύ σελίδων"
 
 #: ../ui/settings.glade:2160
 msgid "Big cursor for pen"
@@ -1856,7 +1857,7 @@ msgstr "Διαγραφή Στρώσης"
 
 #: ../ui/settingsButtonConfig.glade:132
 msgid "Delete stroke"
-msgstr "Διαγραφή πινελιάς"
+msgstr "Διαγραφή μολυβιάς"
 
 #: ../ui/main.glade:2136
 msgid "Delete this page"
