@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-06 09:21\n"
+"PO-Revision-Date: 2020-04-06 09:27\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1188,7 +1188,7 @@ msgstr "Λεπτό"
 
 #: ../src/control/Control.cpp:2441
 msgid "This document is not saved yet."
-msgstr ""
+msgstr "Το αρχείο δεν έχει αποθηκευτεί ακόμα."
 
 #: ../src/control/PageBackgroundChangeController.cpp:150
 #: ../src/control/tools/ImageHandler.cpp:43
@@ -1809,15 +1809,15 @@ msgstr "Χρώματα"
 
 #: ../ui/main.glade:1134
 msgid "Configure Page Template"
-msgstr ""
+msgstr "Ρύθμιση Πρότυπου Σελίδων"
 
 #: ../ui/pageTemplate.glade:185
 msgid "Copy last page settings"
-msgstr ""
+msgstr "Αντιγραφή ρυθμίσεων προηγούμενης σελίδας"
 
 #: ../ui/pageTemplate.glade:296
 msgid "Copy last page size"
-msgstr ""
+msgstr "Αντιγραφή μεγέθους προηγούμενης σελίδας"
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
