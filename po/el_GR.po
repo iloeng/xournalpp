@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-05 22:18\n"
+"PO-Revision-Date: 2020-04-06 05:46\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -796,7 +796,7 @@ msgstr "PDF σελίδα {1}"
 
 #: ../src/view/PdfView.cpp:32
 msgid "PDF background missing"
-msgstr ""
+msgstr "Φόντο PDF λείπει"
 
 #: ../src/control/XournalMain.cpp:254
 msgid "PDF file successfully created"
@@ -810,11 +810,11 @@ msgstr "Αρχεία PDF"
 
 #: ../src/control/XournalMain.cpp:270
 msgid "PDF output filename"
-msgstr ""
+msgstr "όνομα αρχείου εξόδου PDF"
 
 #: ../src/control/jobs/CustomExportJob.cpp:21
 msgid "PDF with plain background"
-msgstr ""
+msgstr "PDF με κενό λευκό φόντο"
 
 #: ../src/control/jobs/CustomExportJob.cpp:22
 msgid "PNG graphics"
