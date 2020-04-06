@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-06 05:32\n"
+"PO-Revision-Date: 2020-04-06 05:46\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -2233,31 +2233,31 @@ msgstr "Ön_ce Yeni Sayfa"
 
 #: ../ui/main.glade:1124
 msgid "New Page at _End"
-msgstr ""
+msgstr "Sonun_da Yeni Sayfa"
 
 #: ../ui/main.glade:1161
 msgid "New _Layer"
-msgstr ""
+msgstr "Yeni _Katman"
 
 #: ../ui/settings.glade:3025
 msgid "Offset first page this many pages when <b>Pair Pages</b> enabled"
-msgstr ""
+msgstr "<b>Sayfaları Eşleştir</b> etkin olduğunda ilk sayfayı bu kadar sayfa kaydır"
 
 #: ../ui/settings.glade:849
 msgid "Options"
-msgstr ""
+msgstr "Seçenekler"
 
 #: ../ui/settings.glade:3796
 msgid "Output Device"
-msgstr ""
+msgstr "Çıktı Aygıtı"
 
 #: ../ui/main.glade:1077
 msgid "P_revious annotated Page"
-msgstr ""
+msgstr "_Önceki açıklamalı Sayfa"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Page Template"
-msgstr ""
+msgstr "Sayfa Şablonu"
 
 #: ../ui/exportSettings.glade:175
 msgid "Pages:"
@@ -2265,7 +2265,7 @@ msgstr "Sayfalar:"
 
 #: ../ui/settings.glade:3058
 msgid "Paired Pages"
-msgstr ""
+msgstr "Eşlenmiş Sayfalar"
 
 #: ../ui/pagesize.glade:18
 msgid "Paper Format"
@@ -2286,7 +2286,8 @@ msgstr "Kağıt Ark_a planı"
 #: ../ui/about.glade:247
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
-msgstr ""
+msgstr "Kısmen Denis Auroux tarafından\n"
+"Xournal'e dayanıyor"
 
 #: ../ui/main.glade:1842
 msgid "Pause"
@@ -2294,7 +2295,7 @@ msgstr "Duraklat"
 
 #: ../ui/main.glade:1469
 msgid "Pen _Options"
-msgstr ""
+msgstr "Kalem _Seçenekleri"
 
 #: ../ui/settings.glade:3988
 msgid "Playback Settings"
@@ -2310,7 +2311,7 @@ msgstr "Eklenti Yö_neticisi"
 
 #: ../ui/plugin.glade:121
 msgid "Plugin changes are only applied after Xournal++ was restarted"
-msgstr ""
+msgstr "Eklenti değişiklikleri yalnızca Xournal++ yeniden başlatıldıktan sonra uygulanır"
 
 #: ../ui/main.glade:440
 msgid "Preferences"
@@ -2354,7 +2355,7 @@ msgstr "Sağ Fare Düğmesi"
 
 #: ../ui/settings.glade:3091
 msgid "Rotation snapping tolerance"
-msgstr ""
+msgstr "Dönme yakalama toleransı"
 
 #: ../ui/settings.glade:3862
 msgid "Sample Rate"
@@ -2366,11 +2367,11 @@ msgstr "Kaydırma çubukları"
 
 #: ../ui/settings.glade:2993
 msgid "Scrolling outside the page"
-msgstr ""
+msgstr "Sayfanın dışına kaydırma"
 
 #: ../ui/pageTemplate.glade:174
 msgid "Select Background Color"
-msgstr ""
+msgstr "Arka Plan Rengini Seç"
 
 #: ../ui/settings.glade:3696
 msgid "Select Folder"
@@ -2390,15 +2391,15 @@ msgstr "Araç çubuğu seç:"
 
 #: ../ui/settings.glade:2051
 msgid "Selection Color (Text, Stroke Selection etc.)"
-msgstr ""
+msgstr "Seçim Rengi (Metin, Kontur Seçimi vb.)"
 
 #: ../ui/main.glade:621
 msgid "Set Columns"
-msgstr ""
+msgstr "Sütunları Ayarla"
 
 #: ../ui/main.glade:726
 msgid "Set Rows"
-msgstr ""
+msgstr "Satırları Ayarla"
 
 #: ../ui/settings.glade:3398
 msgid "Settings:"
@@ -2422,7 +2423,7 @@ msgstr "Kenar çubuğunu sağ tarafta göster"
 
 #: ../ui/settings.glade:2227
 msgid "Show vertical scrollbar on the left side"
-msgstr ""
+msgstr "Sol tarafta dikey kaydırma çubuğunu göster"
 
 #: ../ui/settings.glade:3150
 msgid "Snapping"
@@ -2430,11 +2431,11 @@ msgstr "Yakalama"
 
 #: ../ui/settings.glade:2579
 msgid "Speed for Ctrl + Scroll"
-msgstr ""
+msgstr "Ctrl + Kaydırma Hızı"
 
 #: ../ui/settings.glade:2607
 msgid "Speed for a Zoomstep"
-msgstr ""
+msgstr "Bir Yakınlaştırma Adımı İçin Hız"
 
 #: ../ui/settingsButtonConfig.glade:130
 msgid "Standard"
@@ -2446,23 +2447,23 @@ msgstr "Depolama Klasörü"
 
 #: ../ui/settings.glade:1333
 msgid "Stylus"
-msgstr ""
+msgstr "Stilus"
 
 #: ../ui/settings.glade:1302
 msgid "Stylus Buttons"
-msgstr ""
+msgstr "Stilus Düğmeleri"
 
 #: ../ui/settings.glade:3348
 msgid "Successive (ms)"
-msgstr ""
+msgstr "Ardışık (ms)"
 
 #: ../ui/main.glade:2072
 msgid "Swap the current page with the one above"
-msgstr ""
+msgstr "Geçerli sayfayı yukarıdakiyle takas et"
 
 #: ../ui/main.glade:2094
 msgid "Swap the current page with the one below"
-msgstr ""
+msgstr "Mevcut sayfayı aşağıdaki ile takas et"
 
 #: ../ui/main.glade:840
 msgid "T_oolbars"
@@ -2482,15 +2483,15 @@ msgstr "Metin Yazı Tipi..."
 
 #: ../ui/settings.glade:2763
 msgid "The unit of the ruler is cm"
-msgstr ""
+msgstr "Cetvel birimi cm'dir"
 
 #: ../ui/settings.glade:775
 msgid "These settings take only effect if the experimental input system is activated"
-msgstr ""
+msgstr "Bu ayarlar yalnızca deneysel giriş sistemi etkinleştirildiyse etkili olur"
 
 #: ../ui/settings.glade:628
 msgid "This is an experimental feature! Use it with care."
-msgstr ""
+msgstr "Bu deneysel bir özellik! Dikkatle kullanın."
 
 #: ../ui/settings.glade:1507
 msgid "Timeout"
@@ -2507,15 +2508,15 @@ msgstr "Saydamlık ayarları"
 
 #: ../ui/settings.glade:3377
 msgid "Try to select object first."
-msgstr ""
+msgstr "Önce nesneyi seçmeyi deneyin."
 
 #: ../ui/settings.glade:3382 ../ui/settings.glade:3412
 msgid "Try to select object first; if nothing selected then show floating toolbox if enabled."
-msgstr ""
+msgstr "Önce nesneyi seçmeyi deneyin; seçili bir şey yoksa, etkinse kayan araç kutusunu gösterir."
 
 #: ../ui/settings.glade:3038
 msgid "Usually 0 or 1"
-msgstr ""
+msgstr "Genellikle 0 veya 1"
 
 #: ../ui/about.glade:101
 msgid "Version"
@@ -2627,23 +2628,23 @@ msgstr "_8 Satır"
 
 #: ../ui/main.glade:199
 msgid "_Annotate PDF"
-msgstr ""
+msgstr "PDF'ye _Açıklama ekleyin"
 
 #: ../ui/main.glade:593
 msgid "_Bottom to Top"
-msgstr ""
+msgstr "_Alttan Üste"
 
 #: ../ui/main.glade:608
 msgid "_Cols/Rows"
-msgstr ""
+msgstr "_Sütunlar/Satırlar"
 
 #: ../ui/main.glade:868
 msgid "_Customize"
-msgstr ""
+msgstr "_Özelleştir"
 
 #: ../ui/main.glade:1293
 msgid "_Default Tools"
-msgstr ""
+msgstr "_Varsayılan Araçlar"
 
 #: ../ui/main.glade:1144
 msgid "_Delete Page"
@@ -2836,11 +2837,11 @@ msgstr "pikseller"
 
 #: ../ui/settings.glade:1551
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
-msgstr ""
+msgstr "s <i>(bundan sonra dokunmatik ekran tekrar etkinleştirilecek)</i>"
 
 #: ../ui/pageTemplate.glade:37
 msgid "save to file"
-msgstr ""
+msgstr "dosyaya kaydet"
 
 #: ../ui/main.glade:1524 ../ui/main.glade:1670 ../ui/main.glade:1779
 msgid "ver_y thick"
