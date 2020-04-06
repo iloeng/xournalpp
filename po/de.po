@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-28 04:06\n"
+"PO-Revision-Date: 2020-04-06 10:58\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -503,7 +503,7 @@ msgstr "Fehler bei der Autospeicherung: {1}"
 
 #: ../src/util/Util.cpp:167
 msgid "Error {1} executing system command: {2}"
-msgstr ""
+msgstr "Fehler {1} bei Ausführung des Systembefehls: {2}"
 
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
@@ -2210,7 +2210,7 @@ msgstr "Maustasten"
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
-msgstr ""
+msgstr "Maus+Tastatur Kombination"
 
 #: ../ui/main.glade:2562
 msgid "Move Down"
