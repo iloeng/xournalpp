@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-02 13:47\n"
+"PO-Revision-Date: 2020-04-06 05:32\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -2059,7 +2059,7 @@ msgstr "Tam Ekran"
 
 #: ../ui/about.glade:281
 msgid "GNU GPLv2 or later"
-msgstr ""
+msgstr "GNU GPLv2 veya üstü"
 
 #: ../ui/settings.glade:3874
 msgid "Gain"
@@ -2079,7 +2079,7 @@ msgstr "Sayfaya Git"
 
 #: ../ui/settings.glade:3104
 msgid "Grid snapping tolerance"
-msgstr ""
+msgstr "Izgara yapıştırma toleransı"
 
 #: ../ui/main.glade:1451
 msgid "H_and Tool"
@@ -2120,12 +2120,14 @@ msgstr "Vurgulayıcı Seçenek_leri"
 #: ../ui/settings.glade:3317
 msgid "How short (screen mm)  of the stroke  AND...\n\n"
 "<i>Recommended: 1 mm</i>"
-msgstr ""
+msgstr "Konturun ne kadar kısa (ekran mm) VE...\n\n"
+"<i>Önerilen: 1 mm</i>"
 
 #: ../ui/settings.glade:3297
 msgid "How short (time)  AND...\n\n"
 "<i>Recommended: 150ms</i>"
-msgstr ""
+msgstr "Ne kadar kısa (zaman) VE...\n\n"
+"<i>Önerilen: 150ms</i>"
 
 #: ../ui/settings.glade:3284
 msgid "Ignore Time (ms)"
@@ -2157,7 +2159,7 @@ msgstr "Önce Sayfa Ekle"
 
 #: ../ui/main.glade:2115
 msgid "Insert a copy of the current page below"
-msgstr ""
+msgstr "Geçerli sayfanın bir kopyasını aşağıya ekle"
 
 #: ../ui/main.glade:512
 msgid "Layout"
@@ -2165,7 +2167,7 @@ msgstr "Düzen"
 
 #: ../ui/settings.glade:2249
 msgid "Left / Right-Handed"
-msgstr ""
+msgstr "Solak / Sağlak"
 
 #: ../ui/about.glade:265
 msgid "License"
@@ -2173,7 +2175,7 @@ msgstr "Lisans"
 
 #: ../ui/settings.glade:594
 msgid "Load / Save"
-msgstr ""
+msgstr "Yükle / Kaydet"
 
 #: ../ui/images.glade:73
 msgid "Load file"
@@ -2190,7 +2192,8 @@ msgstr "En fazla Uzunluk (mm)"
 #: ../ui/settings.glade:827
 msgid "Merge button events with stylus tip events\n"
 "<i>(Check this if</i> \"<tt>xsetwacom get *deviceId* TabletPCButton</tt>\" <i>returns</i> \"<tt>on</tt>\"<i>)</i>"
-msgstr ""
+msgstr "Düğme olaylarını stilus ipucu olaylarıyla birleştir\n"
+"<i>(Check this if</i> \"<tt>xsetwacom get *deviceId* TabletPCButton</tt>\" <i>returns</i> \"<tt>on</tt>\"<i>)</i>"
 
 #: ../ui/settings.glade:961
 msgid "Middle Mouse Button"
@@ -2206,27 +2209,27 @@ msgstr "Fare Düğmeleri"
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
-msgstr ""
+msgstr "Fare + Klavye Kombinasyonu"
 
 #: ../ui/main.glade:2562
 msgid "Move Down"
-msgstr ""
+msgstr "Aşağı Taşı"
 
 #: ../ui/main.glade:2554
 msgid "Move Up"
-msgstr ""
+msgstr "Yukarı Taşı"
 
 #: ../ui/main.glade:1066
 msgid "N_ext annotated page"
-msgstr ""
+msgstr "_Sonraki açıklamalı sayfa"
 
 #: ../ui/main.glade:1113
 msgid "New Page _After"
-msgstr ""
+msgstr "Sonr_a Yeni Sayfa"
 
 #: ../ui/main.glade:1103
 msgid "New Page _Before"
-msgstr ""
+msgstr "Ön_ce Yeni Sayfa"
 
 #: ../ui/main.glade:1124
 msgid "New Page at _End"
