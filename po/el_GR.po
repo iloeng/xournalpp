@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-06 05:46\n"
+"PO-Revision-Date: 2020-04-06 06:01\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -924,7 +924,7 @@ msgstr "Αντικατάσταση"
 
 #: ../src/control/xojfile/LoadHandler.cpp:1041
 msgid "Requested temporary file was not found for attachment {1}"
-msgstr ""
+msgstr "Το προσωρινό αρχείο που ζητήθηκε δεν βρέθηκε για επισύναψη {1}"
 
 #: ../src/control/XournalMain.cpp:162
 msgid "Restore file"
@@ -1010,20 +1010,20 @@ msgstr "Επιλογή Περιοχής"
 
 #: ../src/control/Control.cpp:1996
 msgid "Select another PDF"
-msgstr ""
+msgstr "Επιλέξτε άλλο PDF"
 
 #: ../src/util/XojMsgBox.cpp:70
 msgid "Select another name"
-msgstr ""
+msgstr "Επιλέξτε άλλο όνομα"
 
 #: ../src/gui/dialog/SelectBackgroundColorDialog.cpp:114
 msgid "Select background color"
-msgstr ""
+msgstr "Επιλέξτε χρώμα του φόντου"
 
 #: ../src/gui/toolbarMenubar/ColorToolItem.cpp:39
 #: ../src/gui/toolbarMenubar/ColorToolItem.cpp:91
 msgid "Select color"
-msgstr ""
+msgstr "Επιλέξτε χρώμα"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:64
 msgid "Select rectangle"
@@ -1051,11 +1051,11 @@ msgstr "Εμφάνιση όλων"
 
 #: ../src/gui/dialog/backgroundSelect/PdfPagesDialog.cpp:88
 msgid "Show only not used pages (one unused page)"
-msgstr ""
+msgstr "Προβολή μόνο αχρησιμοποίητων σελίδων (μία αχρησιμοποίητη σελίδα)"
 
 #: ../src/gui/dialog/backgroundSelect/PdfPagesDialog.cpp:89
 msgid "Show only not used pages ({1} unused pages)"
-msgstr ""
+msgstr "Προβολή μόνο αχρησιμοποίητων σελίδων ({1} αχρησιμοποίητες σελίδες)"
 
 #: ../src/control/XournalMain.cpp:338
 msgid "Sorry, Xournal++ can only open one file at once.\n"
@@ -1066,11 +1066,12 @@ msgstr "Συγγνώμη το Xournal++ μπορεί να ανοίξει μόν�
 #: ../src/control/XournalMain.cpp:350
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
-msgstr ""
+msgstr "Συγγνώμη το Xournal++ δεν μπορεί να ανοίξει απομακρυσμένα αρχεία ακόμη.\n"
+"Πρέπει να αντιγράψετε το αρχείο σε τοπικό φάκελο."
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:22
 msgid "Staves"
-msgstr ""
+msgstr "Πεντέγραμμο"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:430
 msgid "Stop"
